@@ -25,11 +25,8 @@ Give a summary graph or metrics of how the model performs. Remember to include h
 ## Limitations
 
 Outline the limitations of your model.
-1.	Inherently stochastic data:
-  a.	Stock prices are noisy by nature as data are driven by humans. Longer historical data used to train the model will result in a degradation of performance.
-2.	Sensitivity Hyperparameters:
-  a.	Using Bayesian optimisation, it is possible to fine-tuned hyperparameters. 
-  b.	Note that this approach is computationally expensive.
+1.	Inherently stochastic data: Stock prices are noisy by nature as data are driven by humans. Longer historical data used to train the model will result in a degradation of performance.
+2.	Sensitivity Hyperparameters: Using Bayesian optimisation, it is possible to fine-tuned hyperparameter. Note that this approach is computationally expensive.
 
 
 ## Trade-offs
