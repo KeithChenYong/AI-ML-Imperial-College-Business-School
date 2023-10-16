@@ -15,7 +15,7 @@ https://pypi.org/project/yfinance/
 
 
 ## MODEL 
-This project will utilize Recurrent Neural Network (RNNs) to predict the future from sequence of variable lengths. Due to the vanishing/exploding gradient problem from unrolling a large number of sequential, LSTM comes into play. As the project advances, we can explore the implementation of more sophisticated algorithms.
+This project will utilize Recurrent Neural Network (RNNs) to predict the future from sequence of variable lengths. Due to the vanishing/exploding gradient problem from unrolling a large number of sequential, LSTM comes into play. As the project advances, we can explore the implementation of more sophisticated algorithms. 
 
 
 ## HYPERPARAMETER OPTIMSATION
@@ -25,7 +25,7 @@ This project will utilize Recurrent Neural Network (RNNs) to predict the future 
 4.	Number of epochs
 5.	and more...
 
-Bayesian Optimisation with Hyperband (BOHB) will be used to optimise these hyperparameters (point 1 to 5).
+Bayesian Optimisation will be used to optimise these hyperparameters (point 1 to 5). A total of 20 loops will be executed to find the global minimum, and a more exploitative approach will be adopted after 10 attempts.
 
 
 ## RESULTS
