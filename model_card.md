@@ -15,8 +15,7 @@ See the [example Google model cards](https://modelcards.withgoogle.com/model-rep
 Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. Performance metric used to measure model is Mean Square Error (MSE). 
 For Bayesian optimisation, absolute summation of differences from predicted and actual are used to find the global minima. 
 
-![initial test performance](./images/90Days_initial_pytorch.png)
-
+![initial test performance](images/90days_initial_pytorch.png)
 
 
 
