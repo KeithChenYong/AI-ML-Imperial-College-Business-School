@@ -38,7 +38,7 @@ Initial results without BO hyperparameter tuning. As the image displayed below, 
 With BO of 20 tries, we can observed fluctuating score while tuning hidden layer, units, dropout rate and number of epochs. 
 ![all score pytorch](./images/90days_score_pytorch.png)
 
-and picking the best performing trend, this is the results from PyTorch.
+and picking the best performing trend, this is the results from PyTorch. Note that the best scoring attempts on hyperparameter tuning resulted in a linear line, which is not ideal for our project.
 ![Best trending pytorch](./images/90days_best_trend_pytorch.png)
 
 Comparing it with TensorFlow, which is another popular deep learning framework. 
