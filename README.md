@@ -21,22 +21,18 @@ This project will utilize Recurrent Neural Network (RNNs) to predict the future 
 ## HYPERPARAMETER OPTIMSATION
 1.	Number of hidden layers and units
 2.	Dropout
-3.	Network weight initialisation
-4.	Activation function
-5.	Optimisation algorithm
-6.	Learning rate
-7.	Number of epochs
-8.	Batch size
-9.	and more...
+3.	Learning rate
+4.	Number of epochs
+5.	and more...
 
-Bayesian Optimisation with Hyperband (BOHB) will be used to optimise these hyperparameters.
+Bayesian Optimisation with Hyperband (BOHB) will be used to optimise these hyperparameters (point 1 to 5).
 
 
 ## RESULTS
 A summary of your results and what you can learn from your model 
 
 You can include images of plots using the code below:
-![Screenshot](image.png)
+![Best trending pytorch](./images/90days_best_trend_pytorch.png)
 
 ## (OPTIONAL: CONTACT DETAILS)
 linkedin.com/in/keithchenyong
