@@ -16,11 +16,11 @@ Give a summary graph or metrics of how the model performs. Remember to include h
 
 1. Performance metric used to measure model is Mean Square Error (MSE). 
 
-![initial test performance](images/90days_initial_pytorch)
+![initial test performance](images/90days_initial_pytorch.png)
 
 2. For Bayesian optimisation, absolute summation of differences from predicted and actual are used to find the global minima. 
 
-![best trend pytorch](images/90days_best_trend_pytorch)
+![best trend pytorch](images/90days_best_trend_pytorch.png)
 
 ## Limitations
 
