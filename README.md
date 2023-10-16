@@ -47,8 +47,10 @@ Comparing it with TensorFlow, which is another popular deep learning framework.
 BO of 20 tries shows a more stable score while tuning units, dropout rate and number of epochs. Hidden layer is fixed at (2).
 ![all score pytorch](./images/90days_score_tensorflow.png)
 
-Best performing trend is as shown below using tensorflow
+Best performing trend is as shown below using tensorflow. It is observed that, despite 20 attempts to tune the hyperparameters, the trend remains more or less similarly structured.
 ![Best trending tensorflow](./images/90days_best_trend_tensorflow.png)
+
+In conclusion, LSTM using pytorch best represents the predicted stock price and thus allowing trades to be considered.
 
 ## (OPTIONAL: CONTACT DETAILS)
 linkedin.com/in/keithchenyong
