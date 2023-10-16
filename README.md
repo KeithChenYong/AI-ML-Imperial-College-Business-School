@@ -50,7 +50,7 @@ BO of 20 tries shows a more stable score while tuning units, dropout rate and nu
 Best performing trend is as shown below using tensorflow. It is observed that, despite 20 attempts to tune the hyperparameters, the trend remains more or less similarly structured.
 ![Best trending tensorflow](./images/90days_best_trend_tensorflow.png)
 
-In conclusion, LSTM using pytorch best represents the predicted stock price and thus allowing trades to be considered.
+In conclusion, LSTM using both tensorflow and pytorch to represents the predicted stock price has at least 1 day which was wrongly predicted. However considered a prediction of 5 days, the model accurately predicted 80% of the direction and thus allowing trades to be considered.
 
 ## (OPTIONAL: CONTACT DETAILS)
 linkedin.com/in/keithchenyong
