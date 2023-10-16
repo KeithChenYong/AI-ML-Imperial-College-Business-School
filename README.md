@@ -32,7 +32,23 @@ Bayesian Optimisation with Hyperband (BOHB) will be used to optimise these hyper
 A summary of your results and what you can learn from your model 
 
 You can include images of plots using the code below:
+Initial results without BO hyperparameter tuning. As the image displayed below, the results wasn't that ideal at all. All trends were exactly the opposite. 
+![initial pytorch](./images/90days_initial_pytorch.png)
+
+With BO of 20 tries, we can observed fluctuating score while tuning hidden layer, units, dropout rate and number of epochs. 
+![all score pytorch](./images/90days_score_pytorch.png)
+
+and picking the best performing trend, this is the results from PyTorch.
 ![Best trending pytorch](./images/90days_best_trend_pytorch.png)
+
+Comparing it with TensorFlow, which is another popular deep learning framework. 
+![initial tensorflow](./images/90days_initial_tensorflow.png)
+
+BO of 20 tries shows a more stable score while tuning units, dropout rate and number of epochs. Hidden layer is fixed at (2).
+![all score pytorch](./images/90days_score_tensorflow.png)
+
+Best performing trend is as shown below using tensorflow
+![Best trending tensorflow](./images/90days_best_trend_tensorflow.png)
 
 ## (OPTIONAL: CONTACT DETAILS)
 linkedin.com/in/keithchenyong
