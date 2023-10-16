@@ -29,5 +29,7 @@ Outline the limitations of your model.
 
 ## Trade-offs
 
-Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. In deep learning applications, there's a general belief that having more data can improve model performance. This idea stems from the advantage of exposing the model to diverse examples, potentially enhancing its generalization capabilities. However, when it comes to stock market data, the situation might be more nuanced. Given the unpredictable and stochastic nature of stock prices, simply adding more historical data might not always enhance a model's predictive power. 
+Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
+
+In deep learning applications, there's a general belief that having more data can improve model performance. This idea stems from the advantage of exposing the model to diverse examples, potentially enhancing its generalization capabilities. However, when it comes to stock market data, the situation might be more nuanced. Given the unpredictable and stochastic nature of stock prices, simply adding more historical data might not always enhance a model's predictive power. 
 Furthermore, there's a notion in financial analysis that stocks with a high percentage of institutional ownership can exhibit more stability. Institutional investors, with their long-term investment strategies, might be less reactive to short-term market noise compared to individual or retail investors. However, there are exceptions and complexities, as evidenced by events like the GameStop (GME) price surge, where retail investor coordination had a pronounced impact on stock prices. 
