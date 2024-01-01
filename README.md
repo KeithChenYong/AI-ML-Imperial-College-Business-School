@@ -52,5 +52,7 @@ Best performing trend is as shown below using tensorflow. It is observed that, d
 
 In conclusion, LSTM using both tensorflow and pytorch to represents the predicted stock price has at least 1 day which was wrongly predicted. However considered a prediction of 5 days, the model accurately predicted 80% of the direction and thus allowing trades to be considered.
 
+Another projects such as Unsupervised Learning, Twitter sentiment strategies are also included. 
+
 ## (OPTIONAL: CONTACT DETAILS)
 linkedin.com/in/keithchenyong
