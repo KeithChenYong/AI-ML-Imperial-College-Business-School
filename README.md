@@ -1,5 +1,7 @@
-# final-capstone-repo
+# final-capstone-repo & additional side-projects
 Final capstone project for Professional Certificate in Machine Learning and Artificial Intelligence
+
+After completing the Professional Certificate provided by Imperial College, projects with similar objectives were trialed and tested with the assistance of Luke Hardy (https://luke-hardy.medium.com/). These projects include unsupervised learning (k-means clustering) to identify potential stocks suitable for short-term investment, and Twitter sentiment analysis to identify current 'hot stocks' to capitalize on their momentum.
 
 
 # Algorithmic Trading
@@ -52,7 +54,6 @@ Best performing trend is as shown below using tensorflow. It is observed that, d
 
 In conclusion, LSTM using both tensorflow and pytorch to represents the predicted stock price has at least 1 day which was wrongly predicted. However considered a prediction of 5 days, the model accurately predicted 80% of the direction and thus allowing trades to be considered.
 
-Another projects such as Unsupervised Learning, Twitter sentiment strategies are also included. 
 
 ## (OPTIONAL: CONTACT DETAILS)
 linkedin.com/in/keithchenyong
