@@ -56,5 +56,5 @@ In conclusion, LSTM using both tensorflow and pytorch to represents the predicte
 
 
 ## CONTACT DETAILS
-Email:     keith.chenyong@gmail.com
+Email:     keith.chenyong@gmail.com <br>
 LinkedIn:  linkedin.com/in/keithchenyong
