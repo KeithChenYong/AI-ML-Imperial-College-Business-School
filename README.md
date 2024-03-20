@@ -20,14 +20,14 @@ https://pypi.org/project/yfinance/
 This project will utilize Recurrent Neural Network (RNNs) to predict the future from sequence of variable lengths. Due to the vanishing/exploding gradient problem from unrolling a large number of sequential, LSTM comes into play. As the project advances, we can explore the implementation of more sophisticated algorithms. 
 
 
-## HYPERPARAMETER OPTIMSATION
+## HYPERPARAMETER OPTIMIZATION
 1.	Number of hidden layers and units
 2.	Dropout
 3.	Learning rate
 4.	Number of epochs
 5.	and more...
 
-Bayesian Optimisation will be used to optimise these hyperparameters (point 1 to 5). A total of 20 loops will be executed to find the global minimum, and a more exploitative approach will be adopted after 10 attempts.
+Bayesian Optimization will be employed to optimize the hyperparameters outlined in points 1 to 5. The process will involve executing a total of 20 loops to identify the global minimum, with a shift towards a more exploitative strategy after the first 10 attempts. The code used originates from the initial Capstone Challenge titled 'Black-box optimization,' where it secured the position of 1st runner-up in competition with the cohort from Imperial College.
 
 
 ## RESULTS
@@ -55,5 +55,6 @@ Best performing trend is as shown below using tensorflow. It is observed that, d
 In conclusion, LSTM using both tensorflow and pytorch to represents the predicted stock price has at least 1 day which was wrongly predicted. However considered a prediction of 5 days, the model accurately predicted 80% of the direction and thus allowing trades to be considered.
 
 
-## (OPTIONAL: CONTACT DETAILS)
-linkedin.com/in/keithchenyong
+## CONTACT DETAILS
+Email:     keith.chenyong@gmail.com
+LinkedIn:  linkedin.com/in/keithchenyong
