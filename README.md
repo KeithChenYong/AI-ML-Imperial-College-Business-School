@@ -48,11 +48,14 @@ Using LSTM with the initial hyperparameters/parameters, we obtained a reasonably
 
 By optimizing the hyperparameters/parameters to find the global minimum via Optuna, we achieved a more accurate prediction on the test data. Through the optimization trials, the best performing model was saved with weights and biases as 'best_model.pth' in the same folder as this 'README.md' file. Using the optimal variables and model, the image below shows the improvement with an MSE loss of 0.0013.
 
-{'hidden_dim': 245, 'num_layers': 1, 'dropout': 0.30846183372287017, 'learning_rate': 0.047182207992924365, 'epochs': 264, 'window': 8}
+{'hidden_dim': 72, 'num_layers': 1, 'dropout': 0.26041914169823066, 'learning_rate': 0.09859152887190062, 'epochs': 192, 'window': 5}
+
+![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/a64a9337-5339-46d0-b2d6-31ec0ae6f685)
 
 
 Let's put our model to the test. The image below was generated before the market opening on May 22, 2024.
 
+![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/11866111-332c-4b25-abad-1313b1222761)
 
 
 ## CONTACT DETAILS
