@@ -53,9 +53,13 @@ By optimizing the hyperparameters/parameters to find the global minimum via Optu
 ![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/a64a9337-5339-46d0-b2d6-31ec0ae6f685)
 
 
-Let's put our model to the test. The image below was generated before the market opening on May 22, 2024.
+Let's put our model to the test. 
 
+The image below was generated before the market opening on May 22, 2024.
 ![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/11866111-332c-4b25-abad-1313b1222761)
+
+The image below was generated on June 3, 2024.
+![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/46948c01-8f2a-4935-86bd-cdcd5bccf1b6)
 
 
 ## CONTACT DETAILS
