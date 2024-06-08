@@ -61,15 +61,18 @@ The image below was generated before the market opening on May 22, 2024.
 The image below was generated on June 3, 2024.
 ![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/46948c01-8f2a-4935-86bd-cdcd5bccf1b6)
 
+The image below was generated on June 8, 2024.
+![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/1501cea8-d48b-41b1-b40b-055633445c22)
+
 
 ## CONTACT DETAILS
 Email:     keith.chenyong@gmail.com <br>
 LinkedIn:  linkedin.com/in/keithchenyong
 
-## Citation
-[Optuna](https://optuna.readthedocs.io/en/stable/index.html)
-Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. 2019.
+## Citation <br>
+[Optuna](https://optuna.readthedocs.io/en/stable/index.html) <br>
+Takuya Akiba, Shotaro Sano, Toshihiko Yanase, Takeru Ohta, and Masanori Koyama. 2019.<br>
 Optuna: A Next-generation Hyperparameter Optimization Framework. In KDD.
 
-[LSTM](https://medium.com/analytics-vidhya/lstms-explained-a-complete-technically-accurate-conceptual-guide-with-keras-2a650327e8f2)
+[LSTM](https://medium.com/analytics-vidhya/lstms-explained-a-complete-technically-accurate-conceptual-guide-with-keras-2a650327e8f2) <br>
 [LSTM - Pytorch](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
