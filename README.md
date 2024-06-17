@@ -1,4 +1,5 @@
 ## Current work-in-progress for deployment
+While the model is currently functioning, machine learning is an iterative process. One of the main challenges with deployment is that models tend to decay over time due to various factors such as model drift (including concept drift and data drift), staleness, and decay. To maintain model accuracy and address performance degradation, regular model retraining is necessary. After the successful deployment of the LSTM model, we can further improve its performance by incorporating additional data, such as the overall market sentiment. This continuous enhancement helps ensure that the model remains accurate and effective over time.
 
 # Stock Price Prediction (TSLA) using LSTM & hyperparameter tuning with Optuna
 This project serves to fulfil the capstone project for <b>Professional Certificate in Machine Learning and Artificial Intelligence</b> by Imperial College Business School. 
