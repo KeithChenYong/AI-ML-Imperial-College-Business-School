@@ -67,6 +67,10 @@ The image below was generated on June 3, 2024.
 The image below was generated on June 8, 2024.
 ![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/1501cea8-d48b-41b1-b40b-055633445c22)
 
+The image below was generated on July 7, 2024.
+![image](https://github.com/KeithChenYong/AI-ML-Imperial-College-Business-School/assets/133010489/3c797026-418c-4439-9a21-806a7ff23593)
+
+
 
 ## CONTACT DETAILS
 Email:     keith.chenyong@gmail.com <br>
